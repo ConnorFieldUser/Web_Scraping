@@ -1,2 +1,2 @@
 # Web_Scraping
-Practice for scraping data from external sources.
+Made on week the seventh week of The Iron Yard backend course. Practice for scraping data from external sources.
